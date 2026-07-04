@@ -1,34 +1,14 @@
-👋 Header
+# Olá! 👋
 
-Sobre mim
-Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, arquitetura de software e boas práticas.
+Meu nome é João Maatheus.
 
-Meu objetivo é desenvolver aplicações escaláveis utilizando princípios como SOLID, Clean Architecture e Design Patterns.
+Sou estudante de Engenharia de Software e gosto de desenvolver aplicações utilizando boas práticas de programação.
 
 Atualmente estudo:
 
-✔ Arquitetura de Software
-
-✔ APIs REST
-
-✔ Docker
-
-✔ Testes Automatizados
-
-✔ CI/CD
-
-✔ Cloud
-
-Stack
-
-Áreas de estudo
-
-Projetos em destaque
-
-Arquitetura
-
-GitHub Stats
-
-Contribuições
-
-Contato
+- C#
+- HTML
+- TypeScript
+- SQL
+- Git
+- JavaScript
