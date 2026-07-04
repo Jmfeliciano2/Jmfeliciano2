@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Header
 
-<!--
-**Jmfeliciano2/Jmfeliciano2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, arquitetura de software e boas práticas.
 
-Here are some ideas to get you started:
+Meu objetivo é desenvolver aplicações escaláveis utilizando princípios como SOLID, Clean Architecture e Design Patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudo:
+
+✔ Arquitetura de Software
+
+✔ APIs REST
+
+✔ Docker
+
+✔ Testes Automatizados
+
+✔ CI/CD
+
+✔ Cloud
+
+Stack
+
+Áreas de estudo
+
+Projetos em destaque
+
+Arquitetura
+
+GitHub Stats
+
+Contribuições
+
+Contato
