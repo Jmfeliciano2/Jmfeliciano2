@@ -1,10 +1,4 @@
-from pathlib import Path
-import zipfile
-
-out = Path("/mnt/data/Jmfeliciano2-profile")
-out.mkdir(parents=True, exist_ok=True)
-
-readme = """<div align="center">
+<div align="center">
 
 # João Matheus
 
@@ -72,13 +66,3 @@ Estou aberto a oportunidades para desenvolver produtos, colaborar com equipes e 
 <div align="center">
   <sub>João Matheus · São Paulo, Brasil</sub>
 </div>
-"""
-
-(out / "README.md").write_text(readme, encoding="utf-8")
-
-zip_path = Path("/mnt/data/Jmfeliciano2-profile-refeito.zip")
-with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED) as zf:
-    zf.write(out / "README.md", arcname="README.md")
-
-print(f"README criado: {out / 'README.md'}")
-print(f"ZIP criado: {zip_path}")
